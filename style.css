@@ -1,0 +1,116 @@
+body {
+    background-color:#ffeedf;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+hr {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 100%;
+    color: #145434;
+}
+
+.material-symbols-outlined {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.flex-container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-size: x-large;
+    border-bottom: 1px solid;
+    padding-bottom: 50px;
+    margin-bottom: 10px;
+}
+
+.detail1 {
+    font-size: small;
+}
+
+.detail2 {
+    font-size: small;
+    font-weight: bold;
+}
+
+#top {
+    color: #145434;
+    font-size: xx-large;
+    font-weight: bold;
+  }  
+
+#mango {
+    background-color: #145434;
+    color: #ffeedf;
+    height: 180px;
+    width: 300px;
+    padding: 30px;
+    margin: 20px;
+} 
+  
+#galaxy {
+    background-color: #145434;
+    color: #ffeedf;
+    height: 180px;
+    width: 300px;
+    padding: 30px;
+    margin: 20px;
+} 
+  
+#rabbit {
+    background-color: #145434;
+    color: #ffeedf;
+    height: 180px;
+    width: 300px;
+    padding: 30px;
+    margin: 20px;
+}  
+  
+#cocaine {
+    background-color: #145434;
+    color: #ffeedf;
+    height: 180px;
+    width: 300px;
+    padding: 30px;
+    margin: 20px;
+}
+  
+button {
+    background-color: #ffeedf;
+    color: #145434;
+    height: 30px;
+    width: 150px;
+    position: relative;
+    left: 190px;
+    top: 60px;
+    border-style: solid ;
+    border-color: #145434;
+}
+  
+#number {
+    background-color: #ffeedf;
+    color: #145434;
+    height: 30px;
+    width: 30px;
+    font-size: x-large;
+    border-width: 2px;
+    border-radius: 50%;
+    border-style: solid;
+    text-align: center;
+    position:relative;
+    left: -40px;
+    top: -195px;
+}  
